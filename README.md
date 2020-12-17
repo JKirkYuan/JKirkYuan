@@ -15,6 +15,7 @@ Experiences 🛠️:
 
 ---
 Latest Projects 👨🏻‍💻:
+
 [Residential School History](https://rshistory.vercel.app/start) --- This was an application made for a class to illustrate a piece of history. I chose to create an app to help users to learn the history of residential schools in Canada.
 
 [Police Brutality Visualizer](https://brutalityvisualizer.app/) --- An application that provides a heatmap visualization for the acts of assault by public servants to American Citizens during non-violent acts of protest.
