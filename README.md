@@ -4,7 +4,7 @@ I'm a Front-End Developer that focuses on creating delightful user experiences
 Currently in my last year at Carleton University studying Computer Science
 
 ---
-Experiences 🛠️:
+### Experiences 🛠️:
 
 **Dapper Labs** - Front End Engineering Intern
 - Technologies: React, Apollo, Next.js, Stripe, Firebase, Web3, Travis CI, and Heroku
@@ -14,7 +14,7 @@ Experiences 🛠️:
 
 
 ---
-Latest Projects 👨🏻‍💻:
+### Latest Projects 👨🏻‍💻:
 
 [Residential School History](https://rshistory.vercel.app/start) --- This was an application made for a class to illustrate a piece of history. I chose to create an app to help users to learn the history of residential schools in Canada.
 
@@ -23,7 +23,7 @@ Latest Projects 👨🏻‍💻:
 [GitHub Issue Tracker](https://jkirkyuan.github.io/Issue-Tracker/#/) --- A simple GitHub issue tracker
 
 ---
-Contacts:
+### Contacts:
 
 [Email](mailto:yuanjt810@gmail.com)
 
