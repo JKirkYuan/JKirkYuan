@@ -1,5 +1,5 @@
 ## Hello 👋 ! I'm Kirk
-I'm a Front-End Developer that focuses on creating delightful user experiences
+I'm a Front-End Developer focusing on creating meaningful and memorable user experiences 🎉
 
 Currently in my last year at Carleton University studying Computer Science ☕️
 
