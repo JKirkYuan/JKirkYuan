@@ -3,15 +3,7 @@ I'm a Front-End Developer focusing on creating meaningful and memorable user exp
 
 Currently in my last year at Carleton University studying Computer Science ☕️
 
----
-### Experiences 🛠️:
-
-**Dapper Labs** - Front End Engineering Intern
-- Technologies: React, Apollo, Next.js, Stripe, Firebase, Web3, Travis CI, and Heroku
-
-**Kinaxis** - Full Stack Developer Intern
-- Technologies: React, Redux, Redux-Saga, C#
-
+Previous Experiences 🛠️: **Dapper Labs**, **Kinaxis**
 
 ---
 ### Latest Projects 👨🏻‍💻:
