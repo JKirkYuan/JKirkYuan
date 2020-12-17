@@ -1,7 +1,7 @@
-## Hello👋! I'm Kirk
+## Hello 👋 ! I'm Kirk
 I'm a Front-End Developer that focuses on creating delightful user experiences
 
-Currently in my last year at Carleton University studying Computer Science
+Currently in my last year at Carleton University studying Computer Science ☕️
 
 ---
 ### Experiences 🛠️:
@@ -16,11 +16,11 @@ Currently in my last year at Carleton University studying Computer Science
 ---
 ### Latest Projects 👨🏻‍💻:
 
-[Residential School History](https://rshistory.vercel.app/start) --- This was an application made for a class to illustrate a piece of history. I chose to create an app to help users to learn the history of residential schools in Canada.
+[Residential School History](https://rshistory.vercel.app/start) - This was an application made for a class to illustrate a piece of history. I chose to create an app to help users to learn the history of residential schools in Canada.
 
-[Police Brutality Visualizer](https://brutalityvisualizer.app/) --- An application that provides a heatmap visualization for the acts of assault by public servants to American Citizens during non-violent acts of protest.
+[Police Brutality Visualizer](https://brutalityvisualizer.app/) - An application that provides a heatmap visualization for the acts of assault by public servants to American Citizens during non-violent acts of protest.
 
-[GitHub Issue Tracker](https://jkirkyuan.github.io/Issue-Tracker/#/) --- A simple GitHub issue tracker
+[GitHub Issue Tracker](https://jkirkyuan.github.io/Issue-Tracker/#/) - A simple GitHub issue tracker
 
 ---
 ### Contacts:
