@@ -4,6 +4,7 @@ I'm a Front-End Developer focusing on creating meaningful and memorable user exp
 Currently in my last year at Carleton University studying Computer Science ☕️
 
 Currently 📦: **Microsoft**
+
 Previous Experiences 🛠️: **Dapper Labs**, **Kinaxis**
 
 ---
